@@ -2,6 +2,10 @@
 
 ### Parent Repo of all the HTML + CSS Projects given to us in FSJS 2.0 batch of iNeuron
 
-- [SEO Master Homepage (Project 1)](https://github.com/vyomPundhir/SEO_Master_Homepage)
+- [SEO Master HomePage (Project 1)](https://github.com/vyomPundhir/SEO_Master_Homepage)
+
+---
+
+- [Crypto Market HomePage (Project 2)](https://github.com/vyomPundhir/Crypto_Market_Homepage)
 
 ---
