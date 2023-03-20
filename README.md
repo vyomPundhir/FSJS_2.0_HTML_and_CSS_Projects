@@ -21,3 +21,7 @@
 - ### [Medifine HomePage (Project 5)](https://github.com/vyomPundhir/Medifine_Homepage)
 
 ---
+
+- ### [Justice HomePage (Project 6)](https://github.com/vyomPundhir/Justice_Homepage)
+
+---
