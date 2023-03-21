@@ -25,3 +25,7 @@
 - ### [Justice HomePage (Project 6)](https://github.com/vyomPundhir/Justice_Homepage)
 
 ---
+
+- ### [Credit Card Landing Page (Project 7)](https://github.com/vyomPundhir/Credit_Card_Landing_Page)
+
+---
