@@ -29,3 +29,7 @@
 - ### [Credit Card Landing Page (Project 7)](https://github.com/vyomPundhir/Credit_Card_Landing_Page)
 
 ---
+
+- ### [Hosting Landing Page (Project 8)](https://github.com/vyomPundhir/Hosting-Landing-Page)
+
+---
