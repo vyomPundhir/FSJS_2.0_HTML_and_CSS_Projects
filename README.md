@@ -33,3 +33,7 @@
 - ### [Hosting Landing Page (Project 8)](https://github.com/vyomPundhir/Hosting-Landing-Page)
 
 ---
+
+- ### [Gaming Landing Page (Project 9)](https://github.com/vyomPundhir/Gaming-Landing-Page)
+
+---
