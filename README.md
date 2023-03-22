@@ -37,3 +37,6 @@
 - ### [Gaming Landing Page (Project 9)](https://github.com/vyomPundhir/Gaming-Landing-Page)
 
 ---
+- ### [Real Estate Landing Page (Project 10)](https://github.com/vyomPundhir/Real-Estate-Desktop-Page)
+
+---
