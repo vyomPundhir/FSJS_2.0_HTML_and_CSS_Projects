@@ -40,3 +40,6 @@
 - ### [Real Estate Landing Page (Project 10)](https://github.com/vyomPundhir/Real-Estate-Desktop-Page)
 
 ---
+- ### [Beats Landing Page (Project 11)](https://github.com/vyomPundhir/Beats-Landing-Page)
+
+---
