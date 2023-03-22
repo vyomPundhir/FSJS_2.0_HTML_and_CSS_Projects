@@ -43,3 +43,6 @@
 - ### [Beats Landing Page (Project 11)](https://github.com/vyomPundhir/Beats-Landing-Page)
 
 ---
+- ### [Data Analytics Landing Page (Project 12)](https://github.com/vyomPundhir/Data-Analytics-Landing-Page)
+
+---
