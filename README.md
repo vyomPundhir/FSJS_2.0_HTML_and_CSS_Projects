@@ -46,12 +46,3 @@
 - ### [Data Analytics Landing Page (Project 12)](https://github.com/vyomPundhir/Data-Analytics-Landing-Page)
 
 ---
-- ### [VScode Homepage UI Clone (Project 13)](https://github.com/vyomPundhir/VScode_Homepage_UI_Clone)
-
----
-- ### [Hello World React Project (Project 14)](https://github.com/vyomPundhir/Hello_World_React_Trial)
-
----
-- ### [React Trial Project (Project 15)](https://github.com/vyomPundhir/React_Trial_Project)
-
----
